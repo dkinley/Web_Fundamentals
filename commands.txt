@@ -1,0 +1,8 @@
+mkdir new_project
+cd new_project 
+git init
+git status
+git commit -m "added a little here and there code"
+git log
+git revert -n Head
+ 
